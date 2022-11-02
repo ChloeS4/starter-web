@@ -2,6 +2,6 @@
 
 ## Introduction
 
-## nPurpose
+## Purpose
 
 ## How To Continue
