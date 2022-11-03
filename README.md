@@ -13,4 +13,4 @@ Deployment section
 ## How To Continue
 How To Continue section
 
-Copyright
+Copyright. All rights reserved
