@@ -2,14 +2,15 @@
 This is a simple website project for showing how to use Git and GitHub together
 
 ## Introduction
-Test
+Introduction section
 
 ## Purpose
-Adding text
+Purpose section
 
 ## Deployment
+Deployment section
 
 ## How To Continue
-Update
+How To Continue section
 
 Copyright
